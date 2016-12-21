@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>My Python Path - python</title><link href="http://maccinza.github.io/" rel="alternate"></link><link href="http://maccinza.github.io/feeds/python.atom.xml" rel="self"></link><id>http://maccinza.github.io/</id><updated>2016-12-21T10:00:00+01:00</updated><entry><title>Testing github pages with pelican</title><link href="http://maccinza.github.io/testing-github-pages-with-pelican.html" rel="alternate"></link><published>2016-12-21T10:00:00+01:00</published><updated>2016-12-21T10:00:00+01:00</updated><author><name>Lucas Infante</name></author><id>tag:maccinza.github.io,2016-12-21:/testing-github-pages-with-pelican.html</id><summary type="html">&lt;p&gt;First post for testing purposes&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Hello World!&lt;/h1&gt;
+&lt;p&gt;This is a first testing post to check if things are working well.&lt;/p&gt;
+&lt;p&gt;The next posts will probably have useful content (I hope so).&lt;/p&gt;
+&lt;p&gt;See ya!&lt;/p&gt;</content><category term="github pages"></category><category term="pelican"></category></entry></feed>
