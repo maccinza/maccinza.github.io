@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>My Python Path - Lucas Infante</title><link href="/" rel="alternate"></link><link href="/feeds/lucas-infante.atom.xml" rel="self"></link><id>/</id><updated>2016-12-22T15:40:00+01:00</updated><entry><title>Register your functions using decorators</title><link href="/registering-functions-with-decorators.html" rel="alternate"></link><published>2016-12-22T15:40:00+01:00</published><updated>2016-12-22T15:40:00+01:00</updated><author><name>Lucas Infante</name></author><id>tag:None,2016-12-22:/registering-functions-with-decorators.html</id><summary type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>My Python Path - Lucas Infante</title><link href="https://maccinza.github.io/" rel="alternate"></link><link href="https://maccinza.github.io/feeds/lucas-infante.atom.xml" rel="self"></link><id>https://maccinza.github.io/</id><updated>2016-12-22T15:40:00+01:00</updated><entry><title>Register your functions using decorators</title><link href="https://maccinza.github.io/registering-functions-with-decorators.html" rel="alternate"></link><published>2016-12-22T15:40:00+01:00</published><updated>2016-12-22T15:40:00+01:00</updated><author><name>Lucas Infante</name></author><id>tag:maccinza.github.io,2016-12-22:/registering-functions-with-decorators.html</id><summary type="html">
 &lt;div class="cell border-box-sizing text_cell rendered"&gt;
 &lt;div class="prompt input_prompt"&gt;
 &lt;/div&gt;
@@ -1332,7 +1332,7 @@ Output for &amp;#34;minus&amp;#34;: -- My second test string. --
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="functions"></category><category term="decorators"></category></entry><entry><title>Hello World!</title><link href="/initial-words.html" rel="alternate"></link><published>2016-12-22T15:20:00+01:00</published><updated>2016-12-22T15:20:00+01:00</updated><author><name>Lucas Infante</name></author><id>tag:None,2016-12-22:/initial-words.html</id><summary type="html">
+</content><category term="functions"></category><category term="decorators"></category></entry><entry><title>Hello World!</title><link href="https://maccinza.github.io/initial-words.html" rel="alternate"></link><published>2016-12-22T15:20:00+01:00</published><updated>2016-12-22T15:20:00+01:00</updated><author><name>Lucas Infante</name></author><id>tag:maccinza.github.io,2016-12-22:/initial-words.html</id><summary type="html">
 &lt;div class="cell border-box-sizing text_cell rendered"&gt;
 &lt;div class="prompt input_prompt"&gt;
 &lt;/div&gt;
